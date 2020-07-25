@@ -3,7 +3,7 @@ DDP course project
 
 ### App:https://abhishekajmera0903.shinyapps.io/CountryFinder/
 
-### PPT://rpubs.com/abhishekajmera/location_finder
+### PPT:rpubs.com/abhishekajmera/location_finder
 
 
 This project takes coordinates (latitude, longitude) as inputs and shows the location on the map and displays the country to which it belongs. 
